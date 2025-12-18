@@ -1,0 +1,5 @@
+print(int('1') + 1)
+print(str(1) + 'b')
+print(bool(' '))
+print("mudei")
+print("teste")
